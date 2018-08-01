@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/plamen/Documents/Projects/netcore/mvccore/mvccore.csproj",
+      "projectUniqueName": "/home/plamen/Documents/Projects/vstscore/mvccore.csproj",
       "projectName": "mvccore",
-      "projectPath": "/home/plamen/Documents/Projects/netcore/mvccore/mvccore.csproj",
+      "projectPath": "/home/plamen/Documents/Projects/vstscore/mvccore.csproj",
       "packagesPath": "/home/plamen/.nuget/packages/",
-      "outputPath": "/home/plamen/Documents/Projects/netcore/mvccore/obj/",
+      "outputPath": "/home/plamen/Documents/Projects/vstscore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
